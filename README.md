@@ -7,3 +7,4 @@
  * [淘宝前端团队博客](http://taobaofed.org/blog/2015/11/17/nvm-or-n/)
 add1
 add2
+add3
