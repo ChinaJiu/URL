@@ -5,7 +5,6 @@
  * [github开源代码](https://github.com/showcases)
  * [三水清博客](http://js8.in/)
  * [淘宝前端团队博客](http://taobaofed.org/blog/2015/11/17/nvm-or-n/)
-add15
 add1
 add2
 add3
@@ -19,3 +18,10 @@ add10
 add11
 add12
 add13
+add14
+add15
+add16
+add17
+add18
+add19
+add20
